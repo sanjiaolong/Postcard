@@ -30,6 +30,8 @@ class ViewController: UIViewController {
         enterNameTextField.resignFirstResponder()
         //hide keyboard
         
+        // This is a comment
+        
         mailButton.setTitle("Mail sent", forState: UIControlState.Normal)
     }
     
